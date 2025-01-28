@@ -1,0 +1,78 @@
+@weather_app_backend_HostAddress = http://localhost:5016
+
+### Weather Forecast
+
+GET {{weather_app_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+### User Registration
+
+POST {{weather_app_backend_HostAddress}}/api/auth/register
+Content-Type: application/json
+
+{
+  "email": "testuser@example.com",
+  "password": "Test@1234"
+}
+
+###
+
+### User Login
+
+POST {{weather_app_backend_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "testuser@example.com",
+  "password": "Test@1234"
+}
+
+###
+
+### Get All Locations
+
+GET {{weather_app_backend_HostAddress}}/api/location
+Accept: application/json
+
+###
+
+### Add Favorite Location
+
+POST {{weather_app_backend_HostAddress}}/api/location/add-favorite?userId={{userId}}
+Content-Type: application/json
+
+{
+  "city": "New York",
+  "street": "5th Avenue",
+  "zipCode": "10001",
+  "country": "USA",
+  "lat": 40.7128,
+  "lon": -74.0060
+}
+
+###
+
+### Remove Favorite Location
+
+DELETE {{weather_app_backend_HostAddress}}/api/location/remove-favorite?userId={{userId}}
+Content-Type: application/json
+
+{
+  "city": "New York",
+  "street": "5th Avenue",
+  "zipCode": "10001",
+  "country": "USA",
+  "lat": 40.7128,
+  "lon": -74.0060
+}
+
+###
+
+### Get Favorite Locations
+
+GET {{weather_app_backend_HostAddress}}/api/location/favorites?userId={{userId}}
+Accept: application/json
+
+###
