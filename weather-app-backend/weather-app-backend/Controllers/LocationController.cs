@@ -10,7 +10,6 @@ namespace weather_app_backend.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize]
     public class LocationController : ControllerBase
     {
         private readonly ApplicationDbContext _context;

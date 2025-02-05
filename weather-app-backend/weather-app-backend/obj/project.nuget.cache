@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uPIuS0X/3kk=",
+  "dgSpecHash": "q8CofMhuWI4=",
   "success": true,
-  "projectFilePath": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.csproj",
+  "projectFilePath": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lumio\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lumio\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

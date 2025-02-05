@@ -1,46 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.net\\projekt\\weather-app-backend\\",
+  "WorkspaceRootPath": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\weather-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\weather-app-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\weather-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\userfavoritelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\userfavoritelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\migrations\\20250127182949_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\migrations\\20250127182949_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\weather-app-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|d:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF67867-F46A-4949-8A63-D012B3EE1DB1}|weather-app-backend\\weather-app-backend.csproj|solutionrelative:weather-app-backend\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,37 +66,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "weather-app-backend\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\Controllers\\AuthController.cs",
               "RelativeToolTip": "weather-app-backend\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T23:36:42.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T23:36:42.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250127182949_InitialCreate.cs",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Migrations\\20250127182949_InitialCreate.cs",
-              "RelativeDocumentMoniker": "weather-app-backend\\Migrations\\20250127182949_InitialCreate.cs",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Migrations\\20250127182949_InitialCreate.cs",
-              "RelativeToolTip": "weather-app-backend\\Migrations\\20250127182949_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:29:49.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\ApplicationUser.cs",
+              "DocumentMoniker": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "weather-app-backend\\ApplicationUser.cs",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\ApplicationUser.cs",
+              "ToolTip": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\ApplicationUser.cs",
               "RelativeToolTip": "weather-app-backend\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,94 +90,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "weather-app-backend\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\ApplicationDbContext.cs",
               "RelativeToolTip": "weather-app-backend\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:04:51.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LocationController.cs",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Controllers\\LocationController.cs",
-              "RelativeDocumentMoniker": "weather-app-backend\\Controllers\\LocationController.cs",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Controllers\\LocationController.cs",
-              "RelativeToolTip": "weather-app-backend\\Controllers\\LocationController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwEcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:03:18.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserFavoriteLocation.cs",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\UserFavoriteLocation.cs",
-              "RelativeDocumentMoniker": "weather-app-backend\\UserFavoriteLocation.cs",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\UserFavoriteLocation.cs",
-              "RelativeToolTip": "weather-app-backend\\UserFavoriteLocation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:03:02.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Location.cs",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Location.cs",
-              "RelativeDocumentMoniker": "weather-app-backend\\Location.cs",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Location.cs",
-              "RelativeToolTip": "weather-app-backend\\Location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T16:58:51.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T17:04:51.286Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "weather-app-backend\\Controllers\\LocationController.cs",
+              "ToolTip": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "weather-app-backend\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:03:18.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\Location.cs",
+              "RelativeDocumentMoniker": "weather-app-backend\\Location.cs",
+              "ToolTip": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\Location.cs",
+              "RelativeToolTip": "weather-app-backend\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:58:51.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Program.cs",
+              "DocumentMoniker": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\Program.cs",
               "RelativeDocumentMoniker": "weather-app-backend\\Program.cs",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\Program.cs",
+              "ToolTip": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\Program.cs",
               "RelativeToolTip": "weather-app-backend\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T19:51:25.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "weather-app-backend.http",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.http",
+              "DocumentMoniker": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.http",
               "RelativeDocumentMoniker": "weather-app-backend\\weather-app-backend.http",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.http",
+              "ToolTip": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.http",
               "RelativeToolTip": "weather-app-backend\\weather-app-backend.http",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wBAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-27T01:00:50.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T01:00:50.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "weather-app-backend.csproj",
-              "DocumentMoniker": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.csproj",
+              "DocumentMoniker": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.csproj",
               "RelativeDocumentMoniker": "weather-app-backend\\weather-app-backend.csproj",
-              "ToolTip": "D:\\.net\\projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.csproj",
+              "ToolTip": "D:\\.net\\projekt\\.net-projekt\\weather-app-backend\\weather-app-backend\\weather-app-backend.csproj",
               "RelativeToolTip": "weather-app-backend\\weather-app-backend.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-26T20:11:24.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T20:11:24.553Z"
             }
           ]
         }
